@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kanto Pokedex
+* source:	https://sketchfab.com/3d-models/kanto-pokedex-75575d98f38e42a5b5b3a76cb4317f3f
+* author:	TabbieCat (https://sketchfab.com/TabbieCat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kanto Pokedex" (https://sketchfab.com/3d-models/kanto-pokedex-75575d98f38e42a5b5b3a76cb4317f3f) by TabbieCat (https://sketchfab.com/TabbieCat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
